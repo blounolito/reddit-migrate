@@ -1,5 +1,7 @@
 # reddit-migrate
 Migrate subscriptions from one Reddit account to an other.
+Done in 30 minutes for a user demonstration of Reddit API.
+No framework used, for easiest usage. You are free to reuse/copy/distribute, i don't care.
 
 1. Export the old account multireddit URL, from there https://www.reddit.com/subreddits/mine
    Paste it in a file, subreddits.txt for example, and save
